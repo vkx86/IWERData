@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("IWERDataCollector")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ELTA")]
+[assembly: AssemblyCompany("VK")]
 [assembly: AssemblyProduct("IWERDataCollector")]
-[assembly: AssemblyCopyright("Copyright © ELTA 2020")]
+[assembly: AssemblyCopyright("Copyright © VK 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
