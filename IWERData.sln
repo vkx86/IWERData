@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWERDataCollector", "IWERDataCollector\IWERDataCollector.csproj", "{94739D97-7884-4863-AB27-FFBB30D677CC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4BF543F4-AAAA-4A9D-8E34-6C820FC874BF}"
+	ProjectSection(SolutionItems) = preProject
+		..\0000IWERData\README.md = ..\0000IWERData\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
